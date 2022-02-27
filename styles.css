@@ -73,5 +73,5 @@ img{
     color: #111111;
     font-size: 1.5rem;
     cursor: pointer;
-    filter: drop-shadow( 0 1.2rem 2rem 0.5rem rgba(0,0,0,0.4);
+    filter: drop-shadow( 0 1.2rem 2rem 0.5rem rgba(0,0,0,0.4));
 }
