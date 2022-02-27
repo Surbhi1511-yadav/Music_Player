@@ -14,7 +14,7 @@ body{
     width: 100vw;
     height: 100vh;
     /* background-color: #2b2424; */
-    background-color:blanchedalmond;
+    background-color:rgb(142, 219, 255);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -25,7 +25,6 @@ body{
     height: 40rem;
     background-color: #f6f6f6;
     /* background-color: #1f1d1d; */
-    /* background-color: black; */
     border-radius: 2rem;
     box-shadow:0 1.2rem 2rem 0.5rem rgba(0,0,0,0.3);
     /* box-shadow: 0 1.2rem 2rem 0.5rem rgba(0,0,0,0.4); */
