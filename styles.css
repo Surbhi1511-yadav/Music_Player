@@ -99,3 +99,16 @@ img{
     color: #111;
     box-shadow: 0 1rem 1rem 0.1rem rgba(0,0,0,0.4);
 }
+/* Adding animations to rotate the img of song  */
+.animate{
+    animation: rotateSongImage 3s linear infinite;
+
+}
+@keyframes rotateSongImage{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
